@@ -20,4 +20,4 @@
 | ----------------------| ------------------------------------------------------------------- | -----------------------------------------------------|
 | Belajarlinux.org      | Linux                                                               | [Link](https://www.belajarlinux.org/)                |
 | Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
-| <b>H</b>HOSTINGER TUTORIAL    | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
+| HOSTINGER TUTORIAL    | WordPres, VPS, Web Development, Video, Webiner                      | [Link](https://www.hostinger.co.id/tutorial/perintah-dasar-linux)|     |
