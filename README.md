@@ -19,4 +19,4 @@
 | Nama Website          | Teknologi                                                           |                         URL                          |
 | ----------------------| ------------------------------------------------------------------- | -----------------------------------------------------|
 | Belajarlinux.org      | Linux                                                               | [Link](https://www.belajarlinux.org/)                |
-| Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo                     | [Link](https://www.petanikode.com/topik/linux/)|     |
+| Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
