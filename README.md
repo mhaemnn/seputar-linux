@@ -18,5 +18,6 @@
 ### Tutorial - Artikel (Tentang Linux)
 | Nama Website          | Teknologi                                                           |                         URL                          |
 | ----------------------| ------------------------------------------------------------------- | -----------------------------------------------------|
-|     Belajarlinux.org  | Linux                                                               | [Link](https://www.belajarlinux.org/)                |
+| Belajarlinux.org      | Linux                                                               | [Link](https://www.belajarlinux.org/)                |
 | Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
+| <b>H</b>HOSTINGER TUTORIAL    | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
