@@ -1,10 +1,11 @@
 ## Daftar Channel Youtube Linux & Teknologi Indonesia indonesia 🇮🇩
--------
+
 ### Apa itu linux?
 >Sistem operasi yang dikembangkan oleh Linus Torvalds pada tahun 1991 dan terbuka untuk digunakan oleh siapa saja. Linux populer digunakan untuk server, komputer pribadi, dan perangkat seluler. Sistem operasi ini memiliki keamanan yang kuat, stabilitas yang baik, dan bebas biaya
 -------
 ### Tutorial - General (Tentang Linux)
-| Header Kolom 1 | Header Kolom 2 | Header Kolom 1 | Header Kolom 2 |
-| -------------- | -------------- | -------------- | -------------- |
-| Isi Kolom 1    | Isi Kolom 2    | Isi Kolom 1    | Isi Kolom 2    |
-| Isi Kolom 3    | Isi Kolom 4    | Isi Kolom 3    | Isi Kolom 4    |
+| Nama Channel          | Teknologi                                                           |                         URL                          |
+| ----------------------| ------------------------------------------------------------------- | -----------------------------------------------------|
+| Indonesai Belajar     | Distro Linux, Cloud Computing, Python, Mechine Learing              | [Link](https://www.youtube.com/@belajaridn/playlists)|
+| Ono Center            | Ubuntu Linux, Teknik Hacking, Teknik Jaringan Komputer, Pemrogramman| [Link](https://www.youtube.com/@OnnoCenter/playlists)|
+
