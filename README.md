@@ -16,7 +16,7 @@
 
 --------
 ### Tutorial - Artikel (Tentang Linux)
-| Nama Websitejkjkj     | Teknologi                                                           |                         URL                          |
+| Nama Situs Website    | Teknologi                                                           |                         URL                          |
 | ----------------------| ------------------------------------------------------------------- | -----------------------------------------------------|
 | Belajar Linux ID      | Linux, Docker, mongoDB, nodeJS, DNS Server, Framework, Bush, Game, cms| [Link](https://belajarlinux.id/)                   |
 | Belajarlinux.org      | Linux, Software for linux                                           | [Link](https://www.belajarlinux.org/)                |
