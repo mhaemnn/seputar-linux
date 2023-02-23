@@ -22,3 +22,4 @@
 | Belajarlinux.org      | Linux, Software for linux                                           | [Link](https://www.belajarlinux.org/)                |
 | Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
 
+ejred
