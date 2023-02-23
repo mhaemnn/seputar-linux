@@ -23,3 +23,4 @@
 | Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
 
 ejred
+dfdf
