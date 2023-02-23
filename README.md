@@ -25,4 +25,4 @@
 ej console.log("hallo");
 print("hello")
 
-fdfdaf
+println("hello")
