@@ -23,5 +23,6 @@
 | Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
 
 ej console.log("hallo");
-dfdf
+print("hello")
+
 fdfdaf
