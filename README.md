@@ -23,7 +23,7 @@
 | Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
 
 
-### Selanjutnya 
-1. Belajar lagi HTML dan CSS Dasar
-2. Harus bisa bikin sesuatu
-3. Javacscript dan Algoritma 
+### Selanjutnya
+1. Langsung belajar PHP dan frameworks
+2. Belajar HTML dan CSS Dasar
+3. Langsung bikin project
