@@ -25,4 +25,5 @@
 
 ### Selanjutnya 
 1. Belajar lagi HTML dan CSS Dasar
-2. Javacscript dan Algoritma 
+2. Harus bisa bikin sesuatu
+3. Javacscript dan Algoritma 
