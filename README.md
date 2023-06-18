@@ -20,5 +20,6 @@
 | ----------------------| ------------------------------------------------------------------- | -----------------------------------------------------|
 | Belajar Linux ID      | Linux, Docker, mongoDB, nodeJS, DNS Server, Framework, Bush, Game, cms| [Link](https://belajarlinux.id/)                   |
 | Belajarlinux.org      | Linux, Software for linux                                           | [Link](https://www.belajarlinux.org/)                |
-| Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)|     |
+| Petanikode            | Linux, HTML, CSS, JS, Docker, Git, Github, Hugo, Kotlin, MicroPython| [Link](https://www.petanikode.com/topik/linux/)      |
+| id.wikiHow            | Linux, Komputer dan Elektronik, Seni dan Hiburan, Mobil dan Otomotif| [Link](https://www.wikihow/Halaman-Utama/)           |
 
